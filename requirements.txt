@@ -1,8 +1,6 @@
-Plaintext
 streamlit
-scikit-learn
-category_encoders
-lightgbm
-numpy
 pandas
+numpy
 joblib
+scikit-learn
+lightgbm
